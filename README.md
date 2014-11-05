@@ -1,8 +1,6 @@
 DataStructure
 =============
 
-University assignment of Data Structure
-
 This is a assignment of DataStructure in URV. 
 
 The objective is to create a route planner in two parts
